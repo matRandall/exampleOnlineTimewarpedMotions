@@ -1,4 +1,4 @@
-# Online Timewarped Motions
+# Online Time Warped Motions
 Examples of motions time warped using online time warping algorithms developed Mathew Randall at Birmingham City University.  During the this programme of research, each online time warping was applied to 3246 pairs of input and target motions.  A selection of the resulting aligned input motions, have been rendered into videos, along with the taregt motion, to visualise the accuracy and quality of the alignment produced. 
 
 # Videos
