@@ -7,7 +7,7 @@ Each video contains a render of the target motion that the input motion was bein
 
 Different on-line time warping algorithms are demonstrated in each video.  The algorithm used to align a given motion is shown above the respective render.  The algorithm that produced the best alignment is always included in the video. 
 
-Videos are located in the videos folder in this repository.  Each video is title based on the ID number given to the pair motions used in the alignment.
+Videos are located in the videos folder in this repository.  Each video is title based on the ID number given to the pair motions used in the alignment and the motion being performed. 
 
 <img src="AlignmentVideoThumb.jpg" alt="image of motions" width="600">
 
@@ -23,3 +23,8 @@ If you use this work in creation of any publication or artifact, attribute it us
  author={Randall, Mathew}, 
  year={2022}} 
 ```
+
+Some motions utilised within this research and subsequently depicted in some of the video in this repository were sourced from the [HDM05 dataset](https://pages.github.com/) reference below.
+
+# References
+Müller, M., Röder, T., Clausen, M., Eberhardt, B., Krüger, B. and Weber, A., 2007. Mocap database hdm05. *Institut für Informatik II, Universität Bonn*.
