@@ -9,7 +9,7 @@ Different on-line time warping algorithms are demonstrated in each video.  The a
 
 Videos are located in the videos folder in this repository.  Each video is title based on the ID number given to the pair motions used in the alignment.
 
-<img src="AlignmentVideoThumb.jpg" alt="image of motions">
+<img src="AlignmentVideoThumb.jpg" alt="image of motions" width="400">
 
 If you use this work in creation of any publication or artifact, attribute it using the following bibtex:
 
