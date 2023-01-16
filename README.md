@@ -24,7 +24,7 @@ If you use this work in creation of any publication or artifact, attribute it us
  year={2022}} 
 ```
 
-Some motions utilised within this research and subsequently depicted in some of the video in this repository were sourced from the [HDM05 dataset](https://resources.mpi-inf.mpg.de/HDM05/) reference below.
+Some motions utilised within this research and subsequently depicted in some of the videos in this repository were sourced from the [HDM05 dataset](https://resources.mpi-inf.mpg.de/HDM05/) reference below.
 
 # References
 Müller, M., Röder, T., Clausen, M., Eberhardt, B., Krüger, B. and Weber, A., 2007. Mocap database hdm05. *Institut für Informatik II, Universität Bonn*.
