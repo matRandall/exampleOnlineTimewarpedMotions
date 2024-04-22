@@ -16,12 +16,16 @@ Videos are located in the videos folder in this repository.  Each video is title
 If you use this work in creation of any publication or artifact, attribute it using the following bibtex:
 
 ```
- @misc{randall_2022, 
- title={Online Timewarped Motions}, 
- url={https://github.com/matRandall/exampleOnlineTimewarpedMotions}, 
- journal={GitHub}, 
- author={Randall, Mathew}, 
- year={2022}} 
+@article{randall2023online,
+  title={Online alignment of human motion using forward plotting-dynamic time warping},
+  author={Randall, Mathew and Harvey, Carlo and Williams, Ian},
+  journal={Computer Animation and Virtual Worlds},
+  volume={34},
+  number={3-4},
+  pages={e2166},
+  year={2023},
+  publisher={Wiley Online Library}
+}
 ```
 
 Some motions utilised within this research and subsequently depicted in some of the videos in this repository were sourced from the [HDM05 dataset](https://resources.mpi-inf.mpg.de/HDM05/) reference below.
